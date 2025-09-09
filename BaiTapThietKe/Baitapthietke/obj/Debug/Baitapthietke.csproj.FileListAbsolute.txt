@@ -1,0 +1,44 @@
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe.config
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.pdb
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.AssemblyReference.cache
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Form1.resources
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai1.resources
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Properties.Resources.resources
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.GenerateResource.cache
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.CoreCompileInputs.cache
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.exe
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.pdb
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai2.resources
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai3.resources
+D:\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai4.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.pdb
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.AssemblyReference.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Form1.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai1.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai2.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai3.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai4.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Properties.Resources.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.GenerateResource.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.CoreCompileInputs.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.exe
+D:\Học tập\Phát triển ứng dụng desktop\2312687_VoHungManh_Baitapthietkeform\2312687_VoHungManh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.pdb
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.exe
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\bin\Debug\Baitapthietke.pdb
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.AssemblyReference.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Form1.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai1.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai2.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai3.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Formbai4.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.Properties.Resources.resources
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.GenerateResource.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.csproj.CoreCompileInputs.cache
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.exe
+D:\Học tập\Phát triển ứng dụng desktop\2312690_NguyenNhatMinh_Baitapthietkeform\2312690_NguyenNhatMinh_Baitapthietkeform\Baitapthietke\Baitapthietke\obj\Debug\Baitapthietke.pdb
