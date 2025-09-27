@@ -1,0 +1,33 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "2312648",
+      "HoTen": "Hoàng Khôi",
+      "Tuoi": 23,
+      "Diem": 6.0,
+      "TonGiao": false
+    },
+    {
+      "MSSV": "2312690",
+      "HoTen": "Nguyễn Nhất Minh",
+      "Tuoi": 20,
+      "Diem": 10.0,
+      "TonGiao": false
+    },
+    {
+      "MSSV": "2312627",
+      "HoTen": "Phạm Tài Hùng",
+      "Tuoi": 20,
+      "Diem": 8.0,
+      "TonGiao": false
+    },
+    {
+      "MSSV": "2312728",
+      "HoTen": "Nguyễn Hoàng Vũ Việt Quang",
+      "Tuoi": 20,
+      "Diem": 4.0,
+      "TonGiao": true
+    }
+
+  ]
+}

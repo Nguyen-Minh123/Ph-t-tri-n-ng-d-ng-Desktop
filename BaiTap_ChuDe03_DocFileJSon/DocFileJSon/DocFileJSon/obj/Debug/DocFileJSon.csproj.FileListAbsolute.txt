@@ -1,0 +1,13 @@
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.csproj.AssemblyReference.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.Properties.Resources.resources
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.csproj.GenerateResource.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.csproj.CoreCompileInputs.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.frmDocFileJSon.resources
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\bin\Debug\DocFileJSon.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\bin\Debug\DocFileJSon.exe
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\bin\Debug\DocFileJSon.pdb
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\bin\Debug\Newtonsoft.Json.dll
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\bin\Debug\Newtonsoft.Json.xml
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJ.160B1C2F.Up2Date
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.exe
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\DocFileJSon\DocFileJSon\obj\Debug\DocFileJSon.pdb
