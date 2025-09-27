@@ -1,0 +1,15 @@
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.csproj.AssemblyReference.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL_ThongTinSV.frmSinhVien.resources
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL_ThongTinSV.Properties.Resources.resources
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.csproj.GenerateResource.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.csproj.CoreCompileInputs.cache
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.exe
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.pdb
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\bin\Debug\QL-ThongTinSV.exe.config
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\bin\Debug\QL-ThongTinSV.exe
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\bin\Debug\QL-ThongTinSV.pdb
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\bin\Debug\Newtonsoft.Json.dll
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\bin\Debug\Newtonsoft.Json.xml
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-Thong.7B5EB0D1.Up2Date
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL_ThongTinSV.frmTimKiem.resources
+D:\Học tập\Phát triển ứng dụng desktop\BaiTap_ChuDe03\QL-ThongTinSV\QL-ThongTinSV\obj\Debug\QL-ThongTinSV.exe.config
