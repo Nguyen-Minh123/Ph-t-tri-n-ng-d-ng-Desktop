@@ -12,33 +12,48 @@ namespace QL_ThongTinSV
 {
     public partial class frmTimKiem : Form
     {
-        public string MSSV_TK { get; set; }
-        public string Ten_TK { get; set; }
-        public string Lop_TK { get; set; }
+        // Thuộc tính trả về cho frmChinh
+        public string MSSV_TK { get; private set; }
+        public string Ten_TK { get; private set; }
+        public string Lop_TK { get; private set; }
 
         public frmTimKiem()
         {
             InitializeComponent();
         }
 
-        public void btn_Tim_Click(object sender, EventArgs e)
+        private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty(mtxtMSSV_TK.Text) &&
-                string.IsNullOrEmpty(txtTen_TK.Text) &&
-                string.IsNullOrEmpty(cboLop_TK.Text))
+            // Reset trước
+            MSSV_TK = string.Empty;
+            Ten_TK = string.Empty;
+            Lop_TK = string.Empty;
+
+
+            // Kiểm tra nhập thông tin
+            if (string.IsNullOrWhiteSpace(txtThongTin.Text))
             {
-                MessageBox.Show("Xin hãy nhập thông tin tìm kiếm", "Lỗi tìm kiếm",
+                MessageBox.Show("Vui lòng nhập thông tin sinh viên cần tìm!", "Thông báo",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtThongTin.Focus(); // đưa con trỏ vào ô nhập
                 return;
             }
 
-            MSSV_TK = mtxtMSSV_TK.Text.Trim();
-            Ten_TK = txtTen_TK.Text.Trim();
-            Lop_TK = cboLop_TK.Text.Trim();
+            // Nếu có nhập thì gán
+            if (rdMSSV.Checked)
+                MSSV_TK = txtThongTin.Text.Trim();
+            else if (rdTen.Checked)
+                Ten_TK = txtThongTin.Text.Trim();
+            else if (rdLop.Checked)
+                Lop_TK = txtThongTin.Text.Trim();
 
+            // Trả kết quả về frmChinh
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
+
+
+        
 
         private void frmTimKiem_Load(object sender, EventArgs e)
         {

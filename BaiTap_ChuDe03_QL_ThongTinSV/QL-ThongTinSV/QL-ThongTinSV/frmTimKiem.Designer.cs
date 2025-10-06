@@ -28,114 +28,106 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.mtxtMSSV_TK = new System.Windows.Forms.MaskedTextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtTen_TK = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.cboLop_TK = new System.Windows.Forms.ComboBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.btn_Tim = new System.Windows.Forms.Button();
-            this.btn_Thoat = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.rdLop = new System.Windows.Forms.RadioButton();
+            this.rdTen = new System.Windows.Forms.RadioButton();
+            this.rdMSSV = new System.Windows.Forms.RadioButton();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtThongTin = new System.Windows.Forms.TextBox();
+            this.btnTimKiem = new System.Windows.Forms.Button();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // mtxtMSSV_TK
+            // groupBox1
             // 
-            this.mtxtMSSV_TK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mtxtMSSV_TK.Location = new System.Drawing.Point(167, 50);
-            this.mtxtMSSV_TK.Mask = "0000000";
-            this.mtxtMSSV_TK.Name = "mtxtMSSV_TK";
-            this.mtxtMSSV_TK.Size = new System.Drawing.Size(227, 27);
-            this.mtxtMSSV_TK.TabIndex = 49;
+            this.groupBox1.Controls.Add(this.rdLop);
+            this.groupBox1.Controls.Add(this.rdTen);
+            this.groupBox1.Controls.Add(this.rdMSSV);
+            this.groupBox1.Location = new System.Drawing.Point(30, 20);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(340, 60);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Tìm kiếm theo";
             // 
-            // label2
+            // rdLop
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(53, 53);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(56, 20);
-            this.label2.TabIndex = 48;
-            this.label2.Text = "MSSV";
+            this.rdLop.AutoSize = true;
+            this.rdLop.Location = new System.Drawing.Point(230, 25);
+            this.rdLop.Name = "rdLop";
+            this.rdLop.Size = new System.Drawing.Size(51, 20);
+            this.rdLop.TabIndex = 2;
+            this.rdLop.TabStop = true;
+            this.rdLop.Text = "Lớp";
+            this.rdLop.UseVisualStyleBackColor = true;
             // 
-            // txtTen_TK
+            // rdTen
             // 
-            this.txtTen_TK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTen_TK.Location = new System.Drawing.Point(167, 102);
-            this.txtTen_TK.Name = "txtTen_TK";
-            this.txtTen_TK.Size = new System.Drawing.Size(227, 27);
-            this.txtTen_TK.TabIndex = 51;
+            this.rdTen.AutoSize = true;
+            this.rdTen.Location = new System.Drawing.Point(130, 25);
+            this.rdTen.Name = "rdTen";
+            this.rdTen.Size = new System.Drawing.Size(52, 20);
+            this.rdTen.TabIndex = 1;
+            this.rdTen.TabStop = true;
+            this.rdTen.Text = "Tên";
+            this.rdTen.UseVisualStyleBackColor = true;
             // 
-            // label6
+            // rdMSSV
             // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(53, 105);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(37, 20);
-            this.label6.TabIndex = 50;
-            this.label6.Text = "Tên";
+            this.rdMSSV.AutoSize = true;
+            this.rdMSSV.Location = new System.Drawing.Point(20, 25);
+            this.rdMSSV.Name = "rdMSSV";
+            this.rdMSSV.Size = new System.Drawing.Size(66, 20);
+            this.rdMSSV.TabIndex = 0;
+            this.rdMSSV.TabStop = true;
+            this.rdMSSV.Text = "MSSV";
+            this.rdMSSV.UseVisualStyleBackColor = true;
             // 
-            // cboLop_TK
+            // label1
             // 
-            this.cboLop_TK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cboLop_TK.FormattingEnabled = true;
-            this.cboLop_TK.Items.AddRange(new object[] {
-            "CTK45",
-            "CTK46",
-            "CTK47",
-            "CTK48"});
-            this.cboLop_TK.Location = new System.Drawing.Point(167, 146);
-            this.cboLop_TK.Name = "cboLop_TK";
-            this.cboLop_TK.Size = new System.Drawing.Size(144, 28);
-            this.cboLop_TK.TabIndex = 57;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(40, 100);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(95, 16);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Nhập thông tin:";
             // 
-            // label7
+            // txtThongTin
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(53, 149);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(37, 20);
-            this.label7.TabIndex = 56;
-            this.label7.Text = "Lớp";
+            this.txtThongTin.Location = new System.Drawing.Point(140, 97);
+            this.txtThongTin.Name = "txtThongTin";
+            this.txtThongTin.Size = new System.Drawing.Size(180, 22);
+            this.txtThongTin.TabIndex = 2;
             // 
-            // btn_Tim
+            // btnTimKiem
             // 
-            this.btn_Tim.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Tim.Location = new System.Drawing.Point(106, 221);
-            this.btn_Tim.Name = "btn_Tim";
-            this.btn_Tim.Size = new System.Drawing.Size(82, 40);
-            this.btn_Tim.TabIndex = 58;
-            this.btn_Tim.Text = "Tìm";
-            this.btn_Tim.UseVisualStyleBackColor = true;
-            this.btn_Tim.Click += new System.EventHandler(this.btn_Tim_Click);
-            // 
-            // btn_Thoat
-            // 
-            this.btn_Thoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Thoat.Location = new System.Drawing.Point(273, 221);
-            this.btn_Thoat.Name = "btn_Thoat";
-            this.btn_Thoat.Size = new System.Drawing.Size(121, 40);
-            this.btn_Thoat.TabIndex = 58;
-            this.btn_Thoat.Text = "Thoát";
-            this.btn_Thoat.UseVisualStyleBackColor = true;
+            this.btnTimKiem.Location = new System.Drawing.Point(140, 141);
+            this.btnTimKiem.Name = "btnTimKiem";
+            this.btnTimKiem.Size = new System.Drawing.Size(90, 30);
+            this.btnTimKiem.TabIndex = 3;
+            this.btnTimKiem.Text = "Tìm kiếm";
+            this.btnTimKiem.UseVisualStyleBackColor = true;
+            this.btnTimKiem.Click += new System.EventHandler(this.btnTimKiem_Click);
             // 
             // frmTimKiem
             // 
+            this.AcceptButton = this.btnTimKiem;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(490, 311);
-            this.Controls.Add(this.btn_Thoat);
-            this.Controls.Add(this.btn_Tim);
-            this.Controls.Add(this.cboLop_TK);
-            this.Controls.Add(this.label7);
-            this.Controls.Add(this.txtTen_TK);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.mtxtMSSV_TK);
-            this.Controls.Add(this.label2);
+            this.ClientSize = new System.Drawing.Size(400, 200);
+            this.Controls.Add(this.btnTimKiem);
+            this.Controls.Add(this.txtThongTin);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "frmTimKiem";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Tìm kiếm sinh viên";
             this.Load += new System.EventHandler(this.frmTimKiem_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -143,13 +135,12 @@
 
         #endregion
 
-        private System.Windows.Forms.MaskedTextBox mtxtMSSV_TK;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtTen_TK;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.ComboBox cboLop_TK;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Button btn_Tim;
-        private System.Windows.Forms.Button btn_Thoat;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.RadioButton rdLop;
+        private System.Windows.Forms.RadioButton rdTen;
+        private System.Windows.Forms.RadioButton rdMSSV;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtThongTin;
+        private System.Windows.Forms.Button btnTimKiem;
     }
 }

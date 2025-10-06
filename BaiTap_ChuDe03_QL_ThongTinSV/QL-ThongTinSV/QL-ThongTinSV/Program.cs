@@ -16,7 +16,7 @@ namespace QL_ThongTinSV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSinhVien());
+            Application.Run(new frmChinh());
         }
     }
 }
